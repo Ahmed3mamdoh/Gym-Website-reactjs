@@ -13,7 +13,6 @@ const HeroSection = () => {
       </h1>
       <div>
         <button onClick={() => navigate("/schedule")}>Start Today</button>
-        <button>About Me</button>
       </div>
     </div>
   );
